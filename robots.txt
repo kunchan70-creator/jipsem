@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /s/
+
+User-agent: Yeti
+Allow: /
+Disallow: /s/
+
+Sitemap: https://jipsem.kr/sitemap.xml
