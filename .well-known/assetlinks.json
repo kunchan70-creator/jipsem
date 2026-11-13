@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kr.jipsem.app",
+      "sha256_cert_fingerprints": [
+        "4E:BB:3D:97:69:3F:91:D9:2A:37:26:F3:28:86:83:EC:CE:DC:B7:9B:C8:1A:26:49:9A:98:F6:76:0A:7D:88:69",
+        "F4:EA:4F:3E:FF:B6:35:94:4D:93:F5:5F:5B:92:65:48:FE:82:CC:F0:21:10:37:23:55:AD:96:4E:78:E0:B9:AE"
+      ]
+    }
+  }
+]
